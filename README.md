@@ -15,4 +15,4 @@
 https://conf.antibiotic.ru/demo/swagger/index.html
 
 Рекомендуется реализовать с использованием Swagger.
-Использование Automapper, паттернов UnitOfWork, Repository будет плюсом.
+Использование Automapper, паттернов UnitOfWork, Repository будет плюсом, но не обязательно.
