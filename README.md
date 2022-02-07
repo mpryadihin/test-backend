@@ -14,5 +14,5 @@
 Интерфейс Swagger с примерами работы доступен по ссылке
 https://conf.antibiotic.ru/demo/swagger/index.html
 
-Рекомендуется реализовать с использованием Swagger.
+Рекомендуется реализовать с использованием Swagger, Entity Framework Core. В качестве базы данных можно использовать что угодно: Sqlite, SqlServer, Postgres, InMemoryDb, текстовые файлы.
 Использование Automapper, паттернов UnitOfWork, Repository будет плюсом, но не обязательно.
