@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\webAPI\\ThesesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213CCE2D-B4CB-4C80-9355-C3113B4AA37B}|ThesesApi\\ThesesApi.csproj|c:\\users\\user\\desktop\\webapi\\thesesapi\\thesesapi\\models\\thesisotherauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CCE2D-B4CB-4C80-9355-C3113B4AA37B}|ThesesApi\\ThesesApi.csproj|solutionrelative:thesesapi\\models\\thesisotherauthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CCE2D-B4CB-4C80-9355-C3113B4AA37B}|ThesesApi\\ThesesApi.csproj|c:\\users\\user\\desktop\\webapi\\thesesapi\\thesesapi\\data\\thesiscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CCE2D-B4CB-4C80-9355-C3113B4AA37B}|ThesesApi\\ThesesApi.csproj|solutionrelative:thesesapi\\data\\thesiscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CCE2D-B4CB-4C80-9355-C3113B4AA37B}|ThesesApi\\ThesesApi.csproj|c:\\users\\user\\desktop\\webapi\\thesesapi\\thesesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CCE2D-B4CB-4C80-9355-C3113B4AA37B}|ThesesApi\\ThesesApi.csproj|solutionrelative:thesesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThesisContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\webAPI\\ThesesApi\\ThesesApi\\Data\\ThesisContext.cs",
+              "RelativeDocumentMoniker": "ThesesApi\\Data\\ThesisContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\webAPI\\ThesesApi\\ThesesApi\\Data\\ThesisContext.cs",
+              "RelativeToolTip": "ThesesApi\\Data\\ThesisContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:06:35.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThesisOtherAuthors.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\webAPI\\ThesesApi\\ThesesApi\\Models\\ThesisOtherAuthors.cs",
+              "RelativeDocumentMoniker": "ThesesApi\\Models\\ThesisOtherAuthors.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\webAPI\\ThesesApi\\ThesesApi\\Models\\ThesisOtherAuthors.cs",
+              "RelativeToolTip": "ThesesApi\\Models\\ThesisOtherAuthors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:05:30.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\webAPI\\ThesesApi\\ThesesApi\\Program.cs",
+              "RelativeDocumentMoniker": "ThesesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\webAPI\\ThesesApi\\ThesesApi\\Program.cs",
+              "RelativeToolTip": "ThesesApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:03:51.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
